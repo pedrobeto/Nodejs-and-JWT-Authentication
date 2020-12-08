@@ -1,2 +1,2 @@
-# Nodejs-and-JWT-Authentication
-Alura course done while working on jmv
+# Blog do código
+> Um blog simples em Node.js
