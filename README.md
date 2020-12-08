@@ -1,2 +1,2 @@
-# Blog do código
-> Um blog simples em Node.js
+# Node API using JWT
+> Restful API with local and bearer token authentication.
