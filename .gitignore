@@ -1,4 +1,9 @@
 node_modules
 node_modules/
 
+redis
+redis/
+redis-3.0.6
+redis-3.0.6/
+
 .env
